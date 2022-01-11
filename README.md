@@ -1,0 +1,2 @@
+# Python-Practicals
+Practical Assignments
